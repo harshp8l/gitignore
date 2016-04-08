@@ -3,5 +3,6 @@
 *.ln
 *.sw*
 *~
+*.gch
 a.out
 core
